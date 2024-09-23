@@ -1,7 +1,7 @@
 ### Установка
 
 ```shell
-bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/vm/ubuntu2404-vm.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/webnitros/proxmox/refs/heads/master/ubuntu2404-vm.sh)"
 ```
 
 ### Проброс порта до машины
